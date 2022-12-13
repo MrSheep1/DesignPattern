@@ -19,6 +19,23 @@
 		6E26652F2927832D007123C2 /* Pen.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E26652E2927832D007123C2 /* Pen.m */; };
 		6E26653829278731007123C2 /* BallPointPen.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E26653729278731007123C2 /* BallPointPen.m */; };
 		6E26653B2927874F007123C2 /* Pencil.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E26653A2927874F007123C2 /* Pencil.m */; };
+		6E3A628B294862B700CA7771 /* AbstractFactoryPatternVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A628A294862B700CA7771 /* AbstractFactoryPatternVC.m */; };
+		6E3A62932948639800CA7771 /* HeadImgFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62922948639800CA7771 /* HeadImgFactory.m */; };
+		6E3A6296294863CE00CA7771 /* CircleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A6295294863CE00CA7771 /* CircleView.m */; };
+		6E3A6299294863DC00CA7771 /* SquareView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A6298294863DC00CA7771 /* SquareView.m */; };
+		6E3A629B2948641100CA7771 /* g7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E3A629A2948641100CA7771 /* g7.jpg */; };
+		6E3A629E294864F300CA7771 /* CircleHeadFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A629D294864F300CA7771 /* CircleHeadFactory.m */; };
+		6E3A62A12948650500CA7771 /* SquareHeadFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62A02948650500CA7771 /* SquareHeadFactory.m */; };
+		6E3A62A42948671400CA7771 /* SingletonPatternVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62A32948671400CA7771 /* SingletonPatternVC.m */; };
+		6E3A62A72948673800CA7771 /* SingletonManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62A62948673800CA7771 /* SingletonManager.m */; };
+		6E3A62AA29486B1500CA7771 /* BuilderVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62A929486B1500CA7771 /* BuilderVC.m */; };
+		6E3A62AD29486B7B00CA7771 /* Director.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62AC29486B7B00CA7771 /* Director.m */; };
+		6E3A62B329486C0100CA7771 /* CarCompanyBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62B229486C0100CA7771 /* CarCompanyBuilder.m */; };
+		6E3A62B629486C0A00CA7771 /* Car.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62B529486C0A00CA7771 /* Car.m */; };
+		6E3A62B9294876D300CA7771 /* PrototypePatternVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62B8294876D300CA7771 /* PrototypePatternVC.m */; };
+		6E3A62BC294876FE00CA7771 /* BaseCopyObj.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62BB294876FE00CA7771 /* BaseCopyObj.m */; };
+		6E3A62BF2948771A00CA7771 /* StudentModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62BE2948771A00CA7771 /* StudentModel.m */; };
+		6E3A62C22948772500CA7771 /* ClassModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62C12948772500CA7771 /* ClassModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +61,41 @@
 		6E26653729278731007123C2 /* BallPointPen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BallPointPen.m; sourceTree = "<group>"; };
 		6E2665392927874F007123C2 /* Pencil.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Pencil.h; sourceTree = "<group>"; };
 		6E26653A2927874F007123C2 /* Pencil.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Pencil.m; sourceTree = "<group>"; };
+		6E3A6289294862B700CA7771 /* AbstractFactoryPatternVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AbstractFactoryPatternVC.h; sourceTree = "<group>"; };
+		6E3A628A294862B700CA7771 /* AbstractFactoryPatternVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AbstractFactoryPatternVC.m; sourceTree = "<group>"; };
+		6E3A62912948639800CA7771 /* HeadImgFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HeadImgFactory.h; sourceTree = "<group>"; };
+		6E3A62922948639800CA7771 /* HeadImgFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HeadImgFactory.m; sourceTree = "<group>"; };
+		6E3A6294294863CE00CA7771 /* CircleView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CircleView.h; sourceTree = "<group>"; };
+		6E3A6295294863CE00CA7771 /* CircleView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CircleView.m; sourceTree = "<group>"; };
+		6E3A6297294863DC00CA7771 /* SquareView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SquareView.h; sourceTree = "<group>"; };
+		6E3A6298294863DC00CA7771 /* SquareView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SquareView.m; sourceTree = "<group>"; };
+		6E3A629A2948641100CA7771 /* g7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = g7.jpg; sourceTree = "<group>"; };
+		6E3A629C294864F300CA7771 /* CircleHeadFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CircleHeadFactory.h; sourceTree = "<group>"; };
+		6E3A629D294864F300CA7771 /* CircleHeadFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CircleHeadFactory.m; sourceTree = "<group>"; };
+		6E3A629F2948650500CA7771 /* SquareHeadFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SquareHeadFactory.h; sourceTree = "<group>"; };
+		6E3A62A02948650500CA7771 /* SquareHeadFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SquareHeadFactory.m; sourceTree = "<group>"; };
+		6E3A62A22948671400CA7771 /* SingletonPatternVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SingletonPatternVC.h; sourceTree = "<group>"; };
+		6E3A62A32948671400CA7771 /* SingletonPatternVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SingletonPatternVC.m; sourceTree = "<group>"; };
+		6E3A62A52948673800CA7771 /* SingletonManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SingletonManager.h; sourceTree = "<group>"; };
+		6E3A62A62948673800CA7771 /* SingletonManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SingletonManager.m; sourceTree = "<group>"; };
+		6E3A62A829486B1500CA7771 /* BuilderVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BuilderVC.h; sourceTree = "<group>"; };
+		6E3A62A929486B1500CA7771 /* BuilderVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BuilderVC.m; sourceTree = "<group>"; };
+		6E3A62AB29486B7B00CA7771 /* Director.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Director.h; sourceTree = "<group>"; };
+		6E3A62AC29486B7B00CA7771 /* Director.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Director.m; sourceTree = "<group>"; };
+		6E3A62AE29486B9700CA7771 /* CarBuildProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CarBuildProtocol.h; sourceTree = "<group>"; };
+		6E3A62B029486BDC00CA7771 /* CarCompanyProtocal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CarCompanyProtocal.h; sourceTree = "<group>"; };
+		6E3A62B129486C0100CA7771 /* CarCompanyBuilder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CarCompanyBuilder.h; sourceTree = "<group>"; };
+		6E3A62B229486C0100CA7771 /* CarCompanyBuilder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CarCompanyBuilder.m; sourceTree = "<group>"; };
+		6E3A62B429486C0A00CA7771 /* Car.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Car.h; sourceTree = "<group>"; };
+		6E3A62B529486C0A00CA7771 /* Car.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Car.m; sourceTree = "<group>"; };
+		6E3A62B7294876D300CA7771 /* PrototypePatternVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrototypePatternVC.h; sourceTree = "<group>"; };
+		6E3A62B8294876D300CA7771 /* PrototypePatternVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PrototypePatternVC.m; sourceTree = "<group>"; };
+		6E3A62BA294876FE00CA7771 /* BaseCopyObj.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseCopyObj.h; sourceTree = "<group>"; };
+		6E3A62BB294876FE00CA7771 /* BaseCopyObj.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseCopyObj.m; sourceTree = "<group>"; };
+		6E3A62BD2948771A00CA7771 /* StudentModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StudentModel.h; sourceTree = "<group>"; };
+		6E3A62BE2948771A00CA7771 /* StudentModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StudentModel.m; sourceTree = "<group>"; };
+		6E3A62C02948772500CA7771 /* ClassModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ClassModel.h; sourceTree = "<group>"; };
+		6E3A62C12948772500CA7771 /* ClassModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ClassModel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,9 +151,9 @@
 			children = (
 				6E26650E29277D47007123C2 /* 工厂方法模式 */,
 				6E26650F29277D57007123C2 /* 抽象工厂模式 */,
-				6E26651229277DB5007123C2 /* 原型模式 */,
 				6E26651029277D71007123C2 /* 单例模式 */,
 				6E26651129277D79007123C2 /* 构建者模式 */,
+				6E26651229277DB5007123C2 /* 原型模式 */,
 			);
 			path = "创建型模式";
 			sourceTree = "<group>";
@@ -113,12 +165,7 @@
 				6E26652829278170007123C2 /* FactoryPatternVC.m */,
 				6E26652A29278207007123C2 /* PenFactory.h */,
 				6E26652B29278207007123C2 /* PenFactory.m */,
-				6E26652D2927832D007123C2 /* Pen.h */,
-				6E26652E2927832D007123C2 /* Pen.m */,
-				6E2665392927874F007123C2 /* Pencil.h */,
-				6E26653A2927874F007123C2 /* Pencil.m */,
-				6E26653629278731007123C2 /* BallPointPen.h */,
-				6E26653729278731007123C2 /* BallPointPen.m */,
+				6E3A628C2948630800CA7771 /* PenKind */,
 			);
 			path = "工厂方法模式";
 			sourceTree = "<group>";
@@ -126,6 +173,15 @@
 		6E26650F29277D57007123C2 /* 抽象工厂模式 */ = {
 			isa = PBXGroup;
 			children = (
+				6E3A6289294862B700CA7771 /* AbstractFactoryPatternVC.h */,
+				6E3A628A294862B700CA7771 /* AbstractFactoryPatternVC.m */,
+				6E3A62912948639800CA7771 /* HeadImgFactory.h */,
+				6E3A62922948639800CA7771 /* HeadImgFactory.m */,
+				6E3A629C294864F300CA7771 /* CircleHeadFactory.h */,
+				6E3A629D294864F300CA7771 /* CircleHeadFactory.m */,
+				6E3A629F2948650500CA7771 /* SquareHeadFactory.h */,
+				6E3A62A02948650500CA7771 /* SquareHeadFactory.m */,
+				6E3A628D2948632A00CA7771 /* HeadView */,
 			);
 			path = "抽象工厂模式";
 			sourceTree = "<group>";
@@ -133,6 +189,10 @@
 		6E26651029277D71007123C2 /* 单例模式 */ = {
 			isa = PBXGroup;
 			children = (
+				6E3A62A22948671400CA7771 /* SingletonPatternVC.h */,
+				6E3A62A32948671400CA7771 /* SingletonPatternVC.m */,
+				6E3A62A52948673800CA7771 /* SingletonManager.h */,
+				6E3A62A62948673800CA7771 /* SingletonManager.m */,
 			);
 			path = "单例模式";
 			sourceTree = "<group>";
@@ -140,6 +200,12 @@
 		6E26651129277D79007123C2 /* 构建者模式 */ = {
 			isa = PBXGroup;
 			children = (
+				6E3A62A829486B1500CA7771 /* BuilderVC.h */,
+				6E3A62A929486B1500CA7771 /* BuilderVC.m */,
+				6E3A62AE29486B9700CA7771 /* CarBuildProtocol.h */,
+				6E3A62AB29486B7B00CA7771 /* Director.h */,
+				6E3A62AC29486B7B00CA7771 /* Director.m */,
+				6E3A62AF29486BB900CA7771 /* Builder */,
 			);
 			path = "构建者模式";
 			sourceTree = "<group>";
@@ -147,6 +213,14 @@
 		6E26651229277DB5007123C2 /* 原型模式 */ = {
 			isa = PBXGroup;
 			children = (
+				6E3A62B7294876D300CA7771 /* PrototypePatternVC.h */,
+				6E3A62B8294876D300CA7771 /* PrototypePatternVC.m */,
+				6E3A62BA294876FE00CA7771 /* BaseCopyObj.h */,
+				6E3A62BB294876FE00CA7771 /* BaseCopyObj.m */,
+				6E3A62BD2948771A00CA7771 /* StudentModel.h */,
+				6E3A62BE2948771A00CA7771 /* StudentModel.m */,
+				6E3A62C02948772500CA7771 /* ClassModel.h */,
+				6E3A62C12948772500CA7771 /* ClassModel.m */,
 			);
 			path = "原型模式";
 			sourceTree = "<group>";
@@ -309,6 +383,43 @@
 			path = "策略模式";
 			sourceTree = "<group>";
 		};
+		6E3A628C2948630800CA7771 /* PenKind */ = {
+			isa = PBXGroup;
+			children = (
+				6E26652D2927832D007123C2 /* Pen.h */,
+				6E26652E2927832D007123C2 /* Pen.m */,
+				6E2665392927874F007123C2 /* Pencil.h */,
+				6E26653A2927874F007123C2 /* Pencil.m */,
+				6E26653629278731007123C2 /* BallPointPen.h */,
+				6E26653729278731007123C2 /* BallPointPen.m */,
+			);
+			path = PenKind;
+			sourceTree = "<group>";
+		};
+		6E3A628D2948632A00CA7771 /* HeadView */ = {
+			isa = PBXGroup;
+			children = (
+				6E3A629A2948641100CA7771 /* g7.jpg */,
+				6E3A6294294863CE00CA7771 /* CircleView.h */,
+				6E3A6295294863CE00CA7771 /* CircleView.m */,
+				6E3A6297294863DC00CA7771 /* SquareView.h */,
+				6E3A6298294863DC00CA7771 /* SquareView.m */,
+			);
+			path = HeadView;
+			sourceTree = "<group>";
+		};
+		6E3A62AF29486BB900CA7771 /* Builder */ = {
+			isa = PBXGroup;
+			children = (
+				6E3A62B029486BDC00CA7771 /* CarCompanyProtocal.h */,
+				6E3A62B129486C0100CA7771 /* CarCompanyBuilder.h */,
+				6E3A62B229486C0100CA7771 /* CarCompanyBuilder.m */,
+				6E3A62B429486C0A00CA7771 /* Car.h */,
+				6E3A62B529486C0A00CA7771 /* Car.m */,
+			);
+			path = Builder;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -366,6 +477,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E3A629B2948641100CA7771 /* g7.jpg in Resources */,
 				6E26650429277CDA007123C2 /* LaunchScreen.storyboard in Resources */,
 				6E26650129277CDA007123C2 /* Assets.xcassets in Resources */,
 				6E2664FF29277CDA007123C2 /* Main.storyboard in Resources */,
@@ -380,13 +492,29 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E26652C29278207007123C2 /* PenFactory.m in Sources */,
+				6E3A62BF2948771A00CA7771 /* StudentModel.m in Sources */,
 				6E26652929278170007123C2 /* FactoryPatternVC.m in Sources */,
+				6E3A62932948639800CA7771 /* HeadImgFactory.m in Sources */,
+				6E3A62BC294876FE00CA7771 /* BaseCopyObj.m in Sources */,
 				6E26653B2927874F007123C2 /* Pencil.m in Sources */,
 				6E2664FC29277CDA007123C2 /* ViewController.m in Sources */,
 				6E26653829278731007123C2 /* BallPointPen.m in Sources */,
+				6E3A62B329486C0100CA7771 /* CarCompanyBuilder.m in Sources */,
+				6E3A62A12948650500CA7771 /* SquareHeadFactory.m in Sources */,
+				6E3A62AD29486B7B00CA7771 /* Director.m in Sources */,
 				6E2664F629277CDA007123C2 /* AppDelegate.m in Sources */,
+				6E3A628B294862B700CA7771 /* AbstractFactoryPatternVC.m in Sources */,
+				6E3A62A42948671400CA7771 /* SingletonPatternVC.m in Sources */,
+				6E3A62A72948673800CA7771 /* SingletonManager.m in Sources */,
+				6E3A62C22948772500CA7771 /* ClassModel.m in Sources */,
+				6E3A6299294863DC00CA7771 /* SquareView.m in Sources */,
+				6E3A6296294863CE00CA7771 /* CircleView.m in Sources */,
 				6E26650729277CDA007123C2 /* main.m in Sources */,
+				6E3A62AA29486B1500CA7771 /* BuilderVC.m in Sources */,
 				6E2664F929277CDA007123C2 /* SceneDelegate.m in Sources */,
+				6E3A62B9294876D300CA7771 /* PrototypePatternVC.m in Sources */,
+				6E3A62B629486C0A00CA7771 /* Car.m in Sources */,
+				6E3A629E294864F300CA7771 /* CircleHeadFactory.m in Sources */,
 				6E26652F2927832D007123C2 /* Pen.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
