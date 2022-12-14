@@ -36,6 +36,8 @@
 		6E3A62BC294876FE00CA7771 /* BaseCopyObj.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62BB294876FE00CA7771 /* BaseCopyObj.m */; };
 		6E3A62BF2948771A00CA7771 /* StudentModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62BE2948771A00CA7771 /* StudentModel.m */; };
 		6E3A62C22948772500CA7771 /* ClassModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62C12948772500CA7771 /* ClassModel.m */; };
+		6E3A62C5294882F900CA7771 /* DelegatePatternVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62C4294882F900CA7771 /* DelegatePatternVC.m */; };
+		6E3A62C82948830900CA7771 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3A62C72948830900CA7771 /* Person.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -96,6 +98,10 @@
 		6E3A62BE2948771A00CA7771 /* StudentModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StudentModel.m; sourceTree = "<group>"; };
 		6E3A62C02948772500CA7771 /* ClassModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ClassModel.h; sourceTree = "<group>"; };
 		6E3A62C12948772500CA7771 /* ClassModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ClassModel.m; sourceTree = "<group>"; };
+		6E3A62C3294882F900CA7771 /* DelegatePatternVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DelegatePatternVC.h; sourceTree = "<group>"; };
+		6E3A62C4294882F900CA7771 /* DelegatePatternVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DelegatePatternVC.m; sourceTree = "<group>"; };
+		6E3A62C62948830900CA7771 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		6E3A62C72948830900CA7771 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -270,6 +276,10 @@
 		6E26651829277E91007123C2 /* 代理模式 */ = {
 			isa = PBXGroup;
 			children = (
+				6E3A62C3294882F900CA7771 /* DelegatePatternVC.h */,
+				6E3A62C4294882F900CA7771 /* DelegatePatternVC.m */,
+				6E3A62C62948830900CA7771 /* Person.h */,
+				6E3A62C72948830900CA7771 /* Person.m */,
 			);
 			path = "代理模式";
 			sourceTree = "<group>";
@@ -491,11 +501,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E3A62C5294882F900CA7771 /* DelegatePatternVC.m in Sources */,
 				6E26652C29278207007123C2 /* PenFactory.m in Sources */,
 				6E3A62BF2948771A00CA7771 /* StudentModel.m in Sources */,
 				6E26652929278170007123C2 /* FactoryPatternVC.m in Sources */,
 				6E3A62932948639800CA7771 /* HeadImgFactory.m in Sources */,
 				6E3A62BC294876FE00CA7771 /* BaseCopyObj.m in Sources */,
+				6E3A62C82948830900CA7771 /* Person.m in Sources */,
 				6E26653B2927874F007123C2 /* Pencil.m in Sources */,
 				6E2664FC29277CDA007123C2 /* ViewController.m in Sources */,
 				6E26653829278731007123C2 /* BallPointPen.m in Sources */,
